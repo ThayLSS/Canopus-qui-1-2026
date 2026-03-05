@@ -1,3 +1,5 @@
+🧠 **Briefing**
+
 1 - Informações gerais
 
 1.1 - Nome do sistema: Cash Alert
