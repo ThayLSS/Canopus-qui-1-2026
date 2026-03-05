@@ -36,12 +36,12 @@ Organização financeira em planilhas simples ou anotações informais;
 Não há um sistema para lembrar o usuário de seus planejamentos e despesas.
 
 
+
 **3. Escopo funcional do sistema**
 
 3.1 Principal objetivo do sistema:
 
 Registrar receitas e despesas a fim de promover controle financeiro pessoal eficiente, prevenindo atrasos por meio de alertas automatizados de vencimentos e desorganização nos demais gastos.
-
 
 3.2 Funcionalidades específicas (secundárias) do sistema:
 
@@ -76,6 +76,7 @@ Realizar buscas por filtros: saldo, categoria e intervalo de tempo;
 Criar históricos dos relatórios mensais;
 
 
+
 **4. Escopo não funcional**
 
 Arquitetura baseada no padrão MVC (Model-View-Controller);
@@ -93,22 +94,24 @@ Usabilidade e acessibilidade: acessibilidade adequada e usabilidade onboarding (
 Conformidade e governança de dados: classificar dados (pessoal/sensível), política de retenção.
 
 
+
 **5. Usuários**
 
 Usuário final: pessoa física interessada em organizar e controlar suas finanças pessoais por meio do registro de receitas e despesas.
 
 
+
 **6. Entregáveis**
 
-- Documento de Visão do Sistema;
+Documento de Visão do Sistema;
 
-- Diagrama de Caso de Uso;
+Diagrama de Caso de Uso;
 
-- Especificação de Caso de Uso;
+Especificação de Caso de Uso;
 
-- Diagrama de Classe;
+Diagrama de Classe;
 
-- Documento de Arquitetura do Sistema;
+Documento de Arquitetura do Sistema;
 
 - Protótipo do Sistema.
 
