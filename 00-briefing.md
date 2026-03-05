@@ -1,19 +1,19 @@
 🧠 **BRIEFING**
 
-1 - Informações gerais
+**1. Informações gerais**
 
-1.1 - Nome do sistema: Cash Alert
+1.1 Nome do sistema: Cash Alert
 
-1.2 - Nome da equipe: Canopus
+1.2 Nome da equipe: Canopus
 
 
-2 - Problema e/ou necessidade 
+**2. Problema e/ou necessidade**
 
-2.1 - Qual é o problema e/ou necessidade que o software deve resolver: 
+2.1 Qual é o problema e/ou necessidade que o software deve resolver: 
 
 O sistema tem o propósito de garantir controle e planejamento financeiro para visualizar movimentações e evitar atrasos por meio de alertas e lembretes baseados em datas, prazos e valores de entrada e saída.
 
-2.2 - Quais são as dores dos usuários: 
+2.2 Quais são as dores dos usuários: 
 
 Boletos e contas atrasando ou vencendo;
 
@@ -21,7 +21,7 @@ Geração de multas e juros;
 
 Ansiedade financeira e problemas psicológicos.
 
-2.3 - O que acontece hoje sem o sistema: 
+2.3 O que acontece hoje sem o sistema: 
 
 Acúmulo de contas atrasadas;
 
@@ -36,14 +36,14 @@ Organização financeira em planilhas simples ou anotações informais;
 Não há um sistema para lembrar o usuário de seus planejamentos e despesas.
 
 
-3 - Escopo funcional do sistema
+**3. Escopo funcional do sistema**
 
-3.1 - Principal objetivo do sistema:
+3.1 Principal objetivo do sistema:
 
 Registrar receitas e despesas a fim de promover controle financeiro pessoal eficiente, prevenindo atrasos por meio de alertas automatizados de vencimentos e desorganização nos demais gastos.
 
 
-3.2 - Funcionalidades específicas (secundárias) do sistema:
+3.2 Funcionalidades específicas (secundárias) do sistema:
 
 Cadastrar perfil do usuário;
 
@@ -76,7 +76,7 @@ Realizar buscas por filtros: saldo, categoria e intervalo de tempo;
 Criar históricos dos relatórios mensais;
 
 
-4. Escopo não funcional
+**4. Escopo não funcional**
 
 Arquitetura baseada no padrão MVC (Model-View-Controller);
 
@@ -93,12 +93,12 @@ Usabilidade e acessibilidade: acessibilidade adequada e usabilidade onboarding (
 Conformidade e governança de dados: classificar dados (pessoal/sensível), política de retenção.
 
 
-5. Usuários
+**5. Usuários**
 
 Usuário final: pessoa física interessada em organizar e controlar suas finanças pessoais por meio do registro de receitas e despesas.
 
 
-6. Entregáveis
+**6. Entregáveis**
 
 - Documento de Visão do Sistema;
 
