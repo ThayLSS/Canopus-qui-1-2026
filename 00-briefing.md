@@ -1,4 +1,4 @@
-🧠 **Briefing**
+🧠 **BRIEFING**
 
 1 - Informações gerais
 
