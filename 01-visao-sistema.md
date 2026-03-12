@@ -23,7 +23,7 @@ Grupo: Canopus
 
 **4 - Escopo:**
 
-Cadastrar perfil do usuário (Registrar conta do usuário no sistema por meio do fornecimento de CPF, nome completo, e-mail e senha de acesso para autenticação na plataforma).
+Cadastrar perfil do usuário (Cadastrar conta do usuário no sistema por meio do fornecimento de CPF, nome completo, e-mail e senha de acesso para autenticação na plataforma).
 
 Registrar saldo inicial (Permitir ao usuário definir o saldo financeiro total disponível no momento do primeiro acesso).
 
@@ -43,13 +43,13 @@ Classificar despesas como fixas ou variáveis (Permitir a definição do tipo da
 Editar e excluir registros financeiros (Permitir ao usuário modificar ou remover registros cadastrados de entrada, saída ou alertas, garantindo melhor gerenciamento).
 
 
-Configurar alertas para vencimento de despesas (Permitir ao usuário definir notificações automáticas para vencimentos de contas).
+Configurar alertas para vencimento de despesas (Permitir ao usuário definir notificações automáticas -eviadas para o email cadastrado- para vencimentos de contas).
 
 
-Configurar alertas personalizados (Permitir a criação de lembretes financeiros personalizados baseados em data e horário definidos pelo usuário).
+Configurar alertas personalizados (Permitir a criação de lembretes financeiros personalizados baseados em data e horário definidos pelo usuário, que aparecerão no calendário do sistema e notificadas no email cadastrado).
 
 
-Notificar saldo negativo ou risco financeiro (Enviar notificações ao usuário quando o sistema identificar risco de saldo negativo ou quando as despesas registradas ultrapassarem as entradas do período).
+Notificar saldo negativo ou risco financeiro (Enviar notificações ao usuário -via email- quando o sistema identificar risco de saldo negativo ou quando as despesas registradas ultrapassarem as entradas do período).
 
 
 Visualizar registros em formato de calendário (Visualizar registros criados pelo usuário baseados em mês e dia por meio do calendário do sistema).
@@ -67,7 +67,10 @@ Gerar relatório financeiro mensal (Gerar automaticamente um relatório ao final
 Criar histórico de relatórios mensais (Armazenar e disponibilizar relatórios financeiros gerados, permitindo consultas futuras e geração de relatórios com base em períodos definidos pelo usuário).
 
 
-Backup e recuperação de dados (Permitir a realização de cópias de segurança das informações financeiras registradas e possibilitar a recuperação dos dados em caso de perda ou falha do sistema).
+Baixar relatórios mensais (Permite que o usuário faça o download do relatório em formato PDF).
+
+
+Realizar Backup e recuperação de dados (Permitir a realização de cópias de segurança das informações financeiras registradas e possibilitar a recuperação dos dados em caso de perda ou falha do sistema).
 
 
 
